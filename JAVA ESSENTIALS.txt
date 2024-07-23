@@ -1,0 +1,84 @@
+1. Introduction to Java
+Overview of Java
+Setting up Java Development Environment (JDK, IDE)
+Writing and Running a Simple Java Program
+
+2. Basic Syntax and Data Types
+Variables and Constants
+Primitive Data Types (int, float, double, char, boolean)
+Strings and String Manipulation
+
+3. Control Flow
+Conditional Statements (if-else, switch-case)
+Loops (for, while, do-while)
+Break and Continue Statements
+
+4. Object-Oriented Programming (OOP) Concepts
+Classes and Objects
+Inheritance
+Polymorphism (Method Overloading, Method Overriding)
+Encapsulation
+
+5. Exception Handling
+Understanding Exceptions
+try-catch Blocks
+finally Block
+Custom Exceptions
+
+6. Collections Framework
+Introduction to Collections Framework
+List Interface and ArrayList
+Set Interface and HashSet
+Map Interface and HashMap
+Iterators
+
+7. Generics
+Introduction to Generics
+Generic Classes and Methods
+Wildcards
+
+8. IO (Input/Output) Operations
+File Handling
+FileReader and FileWriter
+BufferedReader and BufferedWriter
+Serialization and Deserialization
+
+9. Concurrency
+Introduction to Threads
+Thread Lifecycle
+Synchronization
+java.util.concurrent package
+
+10. Database Connectivity (JDBC)
+Introduction to JDBC
+Connecting to a Database
+Executing SQL Queries
+Handling Result Sets
+
+11. Frameworks and Libraries
+Introduction to Spring Framework
+Dependency Injection
+Introduction to Hibernate
+Introduction to JUnit
+
+12. Version Control Systems
+Introduction to Git
+Git Basics (Clone, Commit, Push, Pull)
+Branching and Merging
+
+13. Build Tools
+Introduction to Maven
+Maven Project Structure
+Managing Dependencies
+Introduction to Gradle
+
+14. Testing
+Introduction to Unit Testing
+Introduction to JUnit
+Writing Test Cases
+Test-Driven Development (TDD)
+
+15. Web Development (Optional)
+Introduction to Servlets
+Introduction to JavaServer Pages (JSP)
+Introduction to Spring MVC
