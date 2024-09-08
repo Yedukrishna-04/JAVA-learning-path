@@ -4,7 +4,9 @@ public class Random_No {
             int num = (int) (Math.random() * 10 + 1);
                 if (num == 5){
                     break;
-                }
+                }if (num % 4 == 0){
+                    continue;
+            }
                 System.out.println(num);
             }
     }
