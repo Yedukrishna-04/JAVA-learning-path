@@ -5,8 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="97c3c260-5d6b-455b-b6d5-898ac09fca77" name="Changes" comment="Second push">
-      <change afterPath="$PROJECT_DIR$/Arrays/Arrays.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/constant/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings/src/Concatentaion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings/src/NEW_mETHOD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings/src/Palindromic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings/src/Reverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings/src/String_Builder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings/src/Sub_String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings/src/replace_method.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +31,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/Yedukrishna-04/JAVA-learning-path.git&quot;,
-    &quot;accountId&quot;: &quot;673b890d-b741-4d24-a4ab-c084b04d44f7&quot;
+    &quot;accountId&quot;: &quot;21cce7ab-4c45-477d-94c3-03e61571cc61&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
@@ -44,7 +50,7 @@
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Acer/Desktop/Learning Java/Loops",
+    "last_opened_file_path": "C:/Users/Acer/IdeaProjects/JAVA-learning-path/Arrays",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -57,8 +63,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
-        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.22855.74" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.22855.74" />
       </set>
     </attachedChunks>
   </component>
@@ -83,6 +89,8 @@
       <workItem from="1723821612900" duration="85000" />
       <workItem from="1725684810073" duration="15000" />
       <workItem from="1725705833414" duration="96000" />
+      <workItem from="1727441562230" duration="179000" />
+      <workItem from="1730022204877" duration="44000" />
     </task>
     <task id="LOCAL-00001" summary="Second push">
       <option name="closed" value="true" />
